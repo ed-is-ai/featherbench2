@@ -1,5 +1,7 @@
 # <img src="resources/featherbench.svg" alt="Featherbench logo" width="38" align="top"> Featherbench 2
 
+> Forked from [ed-is-ai/featherbench](https://github.com/ed-is-ai/featherbench).
+
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](pyproject.toml)
 [![Dependencies: 2](https://img.shields.io/badge/dependencies-2-brightgreen.svg)](pyproject.toml)
