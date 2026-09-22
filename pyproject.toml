@@ -3,8 +3,8 @@ requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "featherbench"
-version = "0.2.0"
+name = "featherbench2"
+version = "2.0.0"
 description = "A featherweight, single-file harness for building your own LLM benchmarks on real-world workloads, run apples-to-apples across models via OpenRouter."
 readme = "README.md"
 requires-python = ">=3.9"
